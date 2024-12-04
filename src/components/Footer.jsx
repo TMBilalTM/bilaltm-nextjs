@@ -1,10 +1,10 @@
 import { FaDiscord, FaTwitter, FaYoutube, FaMedium } from "react-icons/fa";
 
 const socialLinks = [
-  { href: "https://bilalt.com", icon: <FaDiscord /> },
-  { href: "https://bilalt.com", icon: <FaTwitter /> },
-  { href: "https://bilalt.com", icon: <FaYoutube /> },
-  { href: "https://bilalt.com", icon: <FaMedium /> },
+  { href: "https://bilaltm.com", icon: <FaDiscord /> },
+  { href: "https://bilaltm.com", icon: <FaTwitter /> },
+  { href: "https://bilaltm.com", icon: <FaYoutube /> },
+  { href: "https://bilaltm.com", icon: <FaMedium /> },
 
 ];
 
